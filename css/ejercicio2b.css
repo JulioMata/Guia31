@@ -1,0 +1,7 @@
+/*ejercicio2b.css   dm14015*/
+
+fichero {background-color:pink;}
+ficha {background-color:red; display:block;} nombre {color:white; display:inline;} apellido 
+{color:yellow; display:inline;}
+
+direccion {color:yellow;font-size:1cm; display:none;}

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"departamento":{
+			"@id":"1",
+			"@nombre":"San Salvador",
+			"cabecera":"San Salvador",
+			"habitantes":"1,700,000",
+			"altura":"545 MSNM"
+		},
+		"departamento2":{
+			"@id":"2",
+			"@nombre":"La Libertad",
+			"cabecera":"Santa Tecla",
+			"habitantes":" 1,859,640",
+			"altura":"1959 MSNM"
+		},
+		"moneda":"Dolar EE.UU",
+		"codigo_de_area":" +503",
+		"idiomas":{
+			"principal":"Español-latinoamericano",
+			"secundario":"Ingles",
+			"autoctono":"Náhuat"
+		},
+		"area_territorial":"21,041 km²"
+	}
+}

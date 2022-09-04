@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="css/ejercicio1b.css" ?>
+<!-- ejercicio1b.xml  DM14015 -->
+<fichero>
+  <informacion id="1" fechaingreso="1/11/2012">
+  <nombre>Antonio</nombre>
+  <apellido>Barbero</apellido>
+  <direccion>Calle de Los Andes, 45</direccion>
+</informacion>
+ <datos id="2" fechaingreso="1/11/2012">
+  <telefono>2257-7777</telefono>
+  <email>TareasBox@gmail.com</email>
+  <webSite>www.TheMasterOfTheScienceTGS.com</webSite>
+</datos>
+ <seguro id="3" fechaingreso="1/11/2012">
+  <Dui>04496712-0</Dui>
+  <Isss>41876262-84675135</Isss>
+  <AFP>1764-13847128-4234</AFP>
+</seguro>
+</fichero> 
