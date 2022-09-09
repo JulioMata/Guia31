@@ -1,7 +1,13 @@
 /*ejercicio2b.css   dm14015*/
 
-fichero {background-color:pink;}
-ficha {background-color:red; display:block;} nombre {color:white; display:inline;} apellido 
-{color:yellow; display:inline;}
-
-direccion {color:yellow;font-size:1cm; display:none;}
+pais {font-family: Georgia, "Times New Roman",
+    Times, serif;background-color:pink;}
+departamento {padding-left: 4.5em; color:darkslategrey; font-size:0.8cm ; display:block;} 
+departamento2 {padding-left: 5.1em; color:midnightblue; font-size:0.7cm; ; display:block;}
+departamento3 {padding-left: 5.1em; color:chocolate; font-size:0.7cm; ; display:block;}
+idiomas {padding-left: 5.1em; color:crimson;font-size:0.7cm; display:block;}
+moneda{padding-left: 8em;color:aquamarine; font-size: 0.5cm; display:flex;}
+codigo_de_area{padding-left: 7.1em;color:teal;font-size: 0.6cm; display:flex;}
+area_territorial{padding-left: 7.1em;color:darkslateblue;font-size: 0.6cm; display: flex;}      
+independencia{padding-left: 7.5em;color:darkred; font-size: 0.5cm; display: flex;}
+linea_de_costa{padding-left: 9.5em;color:olivedrab; font-size: 0.45cm; display:flex;}

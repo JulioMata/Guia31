@@ -1,7 +1,6 @@
 /*ejercicio1a.css   dm14015*/
 
 fichero {background-color:grey;}
-ficha {background-color:red; display:block;} nombre {color:white; display:inline;} apellido 
-{color:yellow; display:inline;}
-
-direccion {color:yellow;font-size:1cm; display:none;}
+nombre {color:darkolivegreen; display:flex;} apellido{color:yellow; display:flex;}
+direccion {color:blue;font-size:0.5cm; display:contents;}
+datos{color:aqua; display:contents;}
